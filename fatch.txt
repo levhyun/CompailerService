@@ -1,6 +1,4 @@
 Features to be updated
 - python, java, rust, c++, go 컴파일러 지원
-- web 지원
-- node js 서버
 - database 저장 기능
 - 편리한 편집기 [+]괄호기능
